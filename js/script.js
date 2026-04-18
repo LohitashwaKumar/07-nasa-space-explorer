@@ -10,7 +10,7 @@ setupDateInputs(startInput, endInput);
 
 // ===== YOUR CODE STARTS HERE =====
 
-const API_KEY = 'DEMO_KEY'; // Replace with your NASA API key later if you have one
+const API_KEY = 's06W9chY1cVB828eQjjpKz7LMxWaEhZ4bf1bocTE'; // Replace with your NASA API key later if you have one
 
 const getImagesBtn = document.getElementById('getImagesBtn');
 const gallery = document.getElementById('gallery');
